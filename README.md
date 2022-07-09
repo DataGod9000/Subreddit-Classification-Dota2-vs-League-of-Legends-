@@ -25,7 +25,7 @@ A total of 8000 posts and comments were pulled from both the Leagueoflegends and
 3) this goes to shows that people on the Dota2 subreddit is discuss more about Dota2 esports tournament, which may suggest that Dota2 has a bigger esports tournament presence then LoL
 ## Models
 
-
+![](https://github.com/Aspiring-DataGod9000/Subreddit-Classification-Dota2-vs-League-of-Legends-/blob/main/read_me_images/MODELLING.png)
 
 | Models                             | Cross Validation Score | Train AUC Score | Test AUC Score | train Accuracy Score| Test Accuracy Score | Sensitivity | Specificity |       
 | ---------------------------------- | ---------------------- | --------------- | -------------- | ------------------- | -----------         | ----------- | ----------- |
